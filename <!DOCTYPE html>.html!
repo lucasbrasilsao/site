@@ -1,10 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
+<html><head>
   <title>Formulário de Login</title>
   <style>
     body {
-      background-image: url("https://e7.pngegg.com/pngimages/731/600/png-clipart-neymar-paris-saint-germain-f-c-fc-barcelona-transparency-neymar-celebrities-tshirt.png");
+      background-image: url("https://img.freepik.com/vetores-gratis/plano-de-fundo-da-area-de-trabalho-moderno-vetor-de-desenho-geometrico-azul_53876-135923.jpg?w=1380&t=st=1685060468~exp=1685061068~hmac=bf379db4482b30e79e92b1f974596915b0d1d5f778b78abd75d175b48fb787db");
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -59,16 +57,17 @@
     <form action="processar_login.php" method="POST">
       <div class="form-group">
         <label for="username">Usuário:</label>
-        <input type="text" id="username" name="username" required>
+        <input type="text" id="username" name="username" required="">
       </div>
       <div class="form-group">
         <label for="password">Senha:</label>
-        <input type="password" id="password" name="password" required>
+        <input type="password" id="password" name="password" required="">
       </div>
       <div class="form-group">
         <input type="submit" value="Entrar">
       </div>
     </form>
   </div>
-</body>
-</html>
+
+
+</body></html>
