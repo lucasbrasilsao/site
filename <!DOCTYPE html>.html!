@@ -2,7 +2,7 @@
   <title>Formulário de Login</title>
   <style>
     body {
-      background-image: url("https://images7.alphacoders.com/447/447698.jpg");
+      background-image: url("https://images7.alphacoders.com/120/1205454.jpg");
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -68,6 +68,7 @@
       </div>
     </form>
   </div>
+
 
 
 </body></html>
