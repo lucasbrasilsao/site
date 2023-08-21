@@ -56,11 +56,11 @@
 
         /* ... Outros estilos para a página de serviços ... */
     </style>
-    <title>Meu Site Dark</title>
+    <title>Meu site de pia</title>
 </head>
 <body>
     <header>
-        <h1>Meu Site Dark</h1>
+        <h1>site do piazão/h1>
         <nav>
             <ul>
                 <li><a href="#">Página Inicial</a></li>
