@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
+<html lang="pt-BR"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
@@ -107,19 +105,19 @@
     </header>
     <section class="main-content">
         <div class="form-container">
-            <h2>Entre em Contato</h2>
+            <h2>Formulário Cadastro de alunos</h2>
             <form>
                 <div class="form-group">
                     <label for="nome">Nome:</label>
-                    <input type="text" id="nome" name="nome" required>
+                    <input type="text" id="nome" name="nome" required="">
                 </div>
                 <div class="form-group">
-                    <label for="email">Email:</label>
-                    <input type="email" id="email" name="email" required>
+                    <label for="password">Senha:</label>
+                    <input id="email" name="email" required="" type="password">
                 </div>
                 <div class="form-group">
-                    <label for="mensagem">Mensagem:</label>
-                    <textarea id="mensagem" name="mensagem" rows="4" required></textarea>
+                    <label for="Email">Email:</label>
+                    <textarea required="" name="Email" id="Email" rows="1"></textarea>
                 </div>
                 <div class="form-group">
                     <input type="submit" value="Enviar">
@@ -130,5 +128,6 @@
     <footer>
         <p>© 2023 site do pia. Todos os direitos reservados pelo pia monstruoso.</p>
     </footer>
-</body>
-</html>
+
+
+</body></html>
